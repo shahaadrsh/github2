@@ -3,3 +3,4 @@ git add
 git status
 git checkout -b (branch name)
 git checout (brachname) to switch a branch name
+git clone
